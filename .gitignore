@@ -1,0 +1,17 @@
+data/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+*.egg-info/
+*.egg
+*.whl
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.log
+*.out
+*.csv
